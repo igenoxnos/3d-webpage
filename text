@@ -1,0 +1,8 @@
+#READ ME#
+so what you do is you put the code in your bookmark bar
+then click the bookmark
+then your page should look 3d
+if you want to stop it you have to press the 3 lines at the top left and press quit
+this is the code:
+
+javascript:(function(){var js=document.body.appendChild(document.createElement("script"));js.onerror=function(){alert("Sorry, the script could not be loaded.")};js.src="https://rawgit.com/Krazete/bookmarklets/master/tri.js"})();
